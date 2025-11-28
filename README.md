@@ -15,12 +15,12 @@ I am passionate about **web development, backend systems, and game programming**
 ### Runeterra Cardscraft (Card Game)
 - **Description:** Personal card game.  
 - **Tech:** JavaScript, CSS  
-- [GitHub Repo](link) | [Live Demo](link)
+- [GitHub Repo](https://github.com/YukimaruHoshimi/RuneterraCardcraft_BSIT3B)
 
 ### Talitha Cumi Web-Based Academic Info System
 - **Description:** Group capstone project; Project Manager & Main Programmer.  
 - **Tech:** JavaScript, CSS, MongoDB  
-- [GitHub Repo](link) | [Live Demo](link)
+- [GitHub Repo](https://github.com/YukimaruHoshimi/EduConnect)
 
 ### AES/RSA Encryption Program
 - **Description:** Individual project demonstrating encryption algorithms.  
