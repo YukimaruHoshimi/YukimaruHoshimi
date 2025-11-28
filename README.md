@@ -13,12 +13,12 @@ I am passionate about **web development, backend systems, and game programming**
 ## 📂 Featured Projects
 
 ### Runeterra Cardscraft (Card Game)
-- **Description:** Personal card game built using JavaScript & CSS.  
+- **Description:** Personal card game.  
 - **Tech:** JavaScript, CSS  
 - [GitHub Repo](link) | [Live Demo](link)
 
 ### Talitha Cumi Web-Based Academic Info System
-- **Description:** Group capstone project; I am Project Manager & Main Programmer.  
+- **Description:** Group capstone project; Project Manager & Main Programmer.  
 - **Tech:** JavaScript, CSS, MongoDB  
 - [GitHub Repo](link) | [Live Demo](link)
 
@@ -55,5 +55,5 @@ I am passionate about **web development, backend systems, and game programming**
 
 ## 📫 Contact Me
 - **Email:** Marquez211x@gmail.com  
-- **LinkedIn:** [linkedin.com/in/jhofer-christhan-marquez](link)  
-- **GitHub:** [github.com/YukimaruHoshimi](link)
+- **LinkedIn:** linkedin.com/in/jhofer-christhan-marquez
+- **GitHub:** github.com/YukimaruHoshimi
