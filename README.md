@@ -42,6 +42,30 @@ I am passionate about **web development, backend systems, and game programming**
 - **Tech:** C++  
 - [GitHub Repo](link)
 
+### The Passcode 
+- **Description:** Personal project, OJT Solo Training for flutter.  
+- **Tech:** Flutter Dart
+- [GitHub Repo](https://github.com/YukimaruHoshimi/The_Passcode)
+ 
+### Dungeon Master
+- **Description:** Personal project, OJT Solo Training for flutter.  
+- **Tech:** Flutter Dart
+- [GitHub Repo](https://github.com/YukimaruHoshimi/Dungeon_Master)
+
+### LoL Marketplace
+- **Description:** Personal project, OJT Solo Training for flutter.  
+- **Tech:** Flutter Dart
+- [GitHub Repo](https://github.com/YukimaruHoshimi/LoL_Marketplace) 
+
+### Simple FNAF
+- **Description:** Personal project, OJT Solo Training for flutter.  
+- **Tech:** Flutter Dart
+- [GitHub Repo](https://github.com/YukimaruHoshimi/simple_FNAF)
+
+### Brick Breaker
+- **Description:** Personal project, OJT Solo Training for flutter.  
+- **Tech:** Flutter Dart
+- [GitHub Repo](https://github.com/YukimaruHoshimi/BrickBreaker) 
 ---
 
 ## 🏆 Other Achievements
