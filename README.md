@@ -1,12 +1,12 @@
 # Hello, I’m Jhofer Christhan Marquez 👋
 I’m a 4th-year BSIT student at Technological University of the Philippines – Manila.  
-I am passionate about **web development, backend systems, and game programming**, and I enjoy creating practical solutions through coding.
+I am passionate about **web programming, backend systems, and game developing**, and I enjoy creating practical solutions through coding.
 
 ---
 
 ## 💻 Skills & Technologies
-**Programming Languages:** JavaScript, Java, C++, C, Python, SQL, HTML, CSS, FoxPro  
-**Frameworks & Tools:** React.js, Node.js, MongoDB, Git, VS Code, Postman  
+**Programming Languages:** JavaScript, Java, C++, C, Python, SQL, HTML, CSS, FoxPro, Dart 
+**Frameworks & Tools:** React.js, Node.js, MongoDB, Git, VS Code, Postman, Flutter, Laravel
 
 ---
 
