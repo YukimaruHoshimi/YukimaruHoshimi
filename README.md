@@ -79,5 +79,5 @@ I am passionate about **web programming, backend systems, and game developing**,
 
 ## 📫 Contact Me
 - **Email:** Marquez211x@gmail.com  
-- **LinkedIn:** [linkedin.com/in/jhofer-christhan-marquez](https://www.linkedin.com/in/jhofer-christhan-marquez)
+- **LinkedIn:** [linkedin.com/in/jhofer-christhan-marquez](https://www.linkedin.com/in/jhofer-christhan-marquez-225a8b38b/)
 - **GitHub:** [github.com/YukimaruHoshimi](https://github.com/YukimaruHoshimi)
