@@ -2,6 +2,7 @@
 I’m a 4th-year BSIT student at Technological University of the Philippines – Manila.  
 I am passionate about **web programming, backend systems, and game developing**, and I enjoy creating practical solutions through coding.
 
+"I belong to the XOO"
 ---
 
 ## 💻 Skills & Technologies
